@@ -1218,6 +1218,7 @@
     transition: all 0.3s ease;
     top: 35%;
     border-radius: 50%;
+    display: none;
 }
  .main-instagram.owl-carousel .owl-nav button.owl-next{
      background: #023b6d;
@@ -1240,6 +1241,7 @@
     transition: all 0.3s ease;
     border-radius: 50%;
     top:35%;
+    display: none;
 }
  .main-instagram.owl-carousel .owl-nav button.owl-next:hover, .main-instagram.owl-carousel .owl-nav button.owl-prev:hover{
      background: #b0b435;
@@ -1506,6 +1508,7 @@ left: 0px;
      background: #060606;
      padding: 20px 0px;
      position: relative;
+     display: none;
 }
  .footer-copyright p {
      text-align: center;
