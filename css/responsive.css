@@ -344,11 +344,11 @@
 @media only screen and (max-width: 1024px){
     .box-add-products,
     .latest-blog,
-    .products-box,
-     .instagram-box{
+    .products-box
+     {
     padding: 35px 0px;
 }
- }
+}
  
  @media only screen and (max-width: 1440px){
     .ins-inner-box p{

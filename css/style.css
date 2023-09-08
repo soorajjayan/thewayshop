@@ -2630,8 +2630,12 @@ div#slides-shop {
     text-align: center;
 
 }
-
-
+/* padding reset */
+.box-add-products,
+    .latest-blog,
+    .products-box{
+        padding:50px 0px !important;
+    }
 
 
 
